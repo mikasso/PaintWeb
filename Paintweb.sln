@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paintweb", "Paintweb\Paintweb.csproj", "{87F83A76-D557-4EAB-97AB-2E6CF24AC8A0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9647C1C6-DF28-4EC9-81A5-A86AB56BF37E} = {9647C1C6-DF28-4EC9-81A5-A86AB56BF37E}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RawStorageLibrary", "..\..\..\Desktop\ConnectivePaint\PaintOnline\RawStorageLibrary\RawStorageLibrary.csproj", "{9647C1C6-DF28-4EC9-81A5-A86AB56BF37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F83A76-D557-4EAB-97AB-2E6CF24AC8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F83A76-D557-4EAB-97AB-2E6CF24AC8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F83A76-D557-4EAB-97AB-2E6CF24AC8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F83A76-D557-4EAB-97AB-2E6CF24AC8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9647C1C6-DF28-4EC9-81A5-A86AB56BF37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9647C1C6-DF28-4EC9-81A5-A86AB56BF37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9647C1C6-DF28-4EC9-81A5-A86AB56BF37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9647C1C6-DF28-4EC9-81A5-A86AB56BF37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8749A72-BDDC-4D61-AD16-9BCF54B1246C}
+	EndGlobalSection
+EndGlobal
