@@ -3,10 +3,18 @@
         <div class="row">&nbsp;</div>
         <div class="row">
             <div class="flex-column">
-                <button id="ConnectToGroupButton" >Connect</button>
-                <input id="GroupTextInput" type="text" value="g1"/>
-                <button id="ClearCanvasButton" onclick="clearCanvas()">Clear canvas</button>
-                <canvas id="MainCanvas" height="1000" width="1000"></canvas>
+                <div id="app"><h1> Shared paint online </h1></div>
+                <p>  To connect enter group name belowe and user name and press the connect button. </p>
+                <div class="float-md-left">
+                    <div>
+                        <p>
+                            <input id="GroupTextInput" type="text" value="group_1" />
+                            <button id="ConnectToGroupButton">Connect</button>
+                        </p>
+                    </div>
+                    <canvas id="MainCanvas" height="600" width="1000"></canvas>
+                    <p> <button id="ClearCanvasButton" onclick="clearCanvas()">Clear canvas</button> </p>
+                </div>
             </div>
         </div>
     </div>

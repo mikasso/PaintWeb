@@ -46,3 +46,4 @@ C:\Users\Mikas\source\repos\Paintweb\Paintweb\obj\Debug\net5.0\Paintweb.csprojAs
 C:\Users\Mikas\source\repos\Paintweb\Paintweb\bin\Debug\net5.0\libman.json
 C:\Users\Mikas\source\repos\Paintweb\Paintweb\bin\Debug\net5.0\RawStorageLibrary.dll
 C:\Users\Mikas\source\repos\Paintweb\Paintweb\bin\Debug\net5.0\RawStorageLibrary.pdb
+C:\Users\Mikas\source\repos\Paintweb\Paintweb\bin\Debug\net5.0\package.json

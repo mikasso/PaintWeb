@@ -1,0 +1,9 @@
+C:\Users\Mikas\Desktop\ConnectivePaint\PaintOnline\RawStorageLibrary\bin\Debug\netstandard2.0\RawStorageLibrary.deps.json
+C:\Users\Mikas\Desktop\ConnectivePaint\PaintOnline\RawStorageLibrary\bin\Debug\netstandard2.0\RawStorageLibrary.dll
+C:\Users\Mikas\Desktop\ConnectivePaint\PaintOnline\RawStorageLibrary\bin\Debug\netstandard2.0\RawStorageLibrary.pdb
+C:\Users\Mikas\Desktop\ConnectivePaint\PaintOnline\RawStorageLibrary\obj\Debug\netstandard2.0\RawStorageLibrary.csprojAssemblyReference.cache
+C:\Users\Mikas\Desktop\ConnectivePaint\PaintOnline\RawStorageLibrary\obj\Debug\netstandard2.0\RawStorageLibrary.AssemblyInfoInputs.cache
+C:\Users\Mikas\Desktop\ConnectivePaint\PaintOnline\RawStorageLibrary\obj\Debug\netstandard2.0\RawStorageLibrary.AssemblyInfo.cs
+C:\Users\Mikas\Desktop\ConnectivePaint\PaintOnline\RawStorageLibrary\obj\Debug\netstandard2.0\RawStorageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mikas\Desktop\ConnectivePaint\PaintOnline\RawStorageLibrary\obj\Debug\netstandard2.0\RawStorageLibrary.dll
+C:\Users\Mikas\Desktop\ConnectivePaint\PaintOnline\RawStorageLibrary\obj\Debug\netstandard2.0\RawStorageLibrary.pdb

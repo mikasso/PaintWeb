@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hrJkCk+Mo26r/FIslJa6lSAmGnv1KezzQlUguaoFMNxigOh7FyIxcykUpFHZwr7ttgtEdE3uhX5eXuDwv0yhwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikas\\source\\repos\\Paintweb\\RawStorageLibrary\\RawStorageLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

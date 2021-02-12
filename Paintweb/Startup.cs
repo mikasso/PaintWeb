@@ -22,6 +22,7 @@ namespace Paintweb
         {
             services.AddRazorPages();
             services.AddSignalR();
+            services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,10 +52,11 @@ namespace Paintweb
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllers();
                 endpoints.MapRazorPages();
                 endpoints.MapHub<ClientHub>("/chathub");
             });
-            
+
         }
 
     }

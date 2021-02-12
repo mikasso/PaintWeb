@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Desktop\ConnectivePaint\PaintOnline\RawStorageLibrary\RawStorageLibrary.csproj" />
+    <ProjectReference Include="..\RawStorageLibrary\RawStorageLibrary.csproj" />
   </ItemGroup>
 
 </Project>
